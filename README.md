@@ -9,3 +9,4 @@
 * Inicializar y configurar el repositorio git y el sistema distribuido de control de versiones [GitHub](https://github.com/)
 * `heroku git:remote -a tgbot-movies1`
 * `git push heroku master`
+* [https://devcenter.heroku.com/articles/config-vars#local-setup](https://devcenter.heroku.com/articles/config-vars#local-setup)
